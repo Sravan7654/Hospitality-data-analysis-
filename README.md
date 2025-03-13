@@ -1,6 +1,4 @@
 ![Screenshot 2025-03-13 150023](https://github.com/user-attachments/assets/ac20c630-bcae-4030-b0e4-a697ee368542)
-
-
 The Hospitality Dashboard provides a comprehensive overview of key performance metrics in the hospitality sector, encompassing revenue, occupancy, booking trends, and customer behavior. The total revenue generated stands at 1709 million, with an occupancy rate of 58%. The cancellation rate is recorded at 25%, indicating a notable proportion of cancellations that may impact overall business performance. The total number of bookings is 135K, while the total utilized capacity is 233K, reflecting the level of operational efficiency.
 
 Platform Trends & Booking Insights
